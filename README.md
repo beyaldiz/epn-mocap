@@ -38,6 +38,14 @@ Training configs are set in [config.yaml](https://github.com/beyaldiz/epn-mocap/
 python run.py
 ```
 
+### Results
+
+#### EPN Approach Results
+
+This result is when all the markers are treated equally to add noise:
+
+<img src="https://github.com/beyaldiz/epn-mocap/blob/main/images/results.png" width="600">
+
 ## References
 - __The code is built on the codebase of [equi-pose](https://github.com/dragonlong/equi-pose)__ and borrows codes from that repository.
 - [MoCap-Solver](https://github.com/NetEase-GameAI/MoCap-Solver)
